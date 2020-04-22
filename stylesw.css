@@ -1,0 +1,18 @@
+#main{
+    margin-left: 100px ;
+    margin-right: 100px; 
+}
+#subStory li
+{
+    list-style: none;
+
+}
+#sDetails li{
+  list-style: none;
+  margin-top: 10px ;
+  margin-bottom: 10px ;
+}
+textarea
+{
+  resize: none;
+}

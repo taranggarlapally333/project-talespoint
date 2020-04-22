@@ -1,0 +1,148 @@
+.logo{
+	width:40%;
+	height: auto;
+}
+
+.search-form{
+	margin-top: 8px;
+}
+
+.search-form .search-input-group{
+
+}
+
+.p{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+}
+h2{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+.contwriting{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-decoration: none;
+	font-size: 20px;
+	color: #000;
+	padding: 10px 20px;
+	transition: 0.6s ease;
+}
+.contwriting:hover{
+	background-color: #f3f3f3;
+	color: purple;
+	text-decoration: none;
+}
+.col-md-3{
+	height: 200%;
+}
+
+.mystory img{
+	width: 80%;
+	height: auto;
+}
+.mylabel{
+	text-decoration: none;
+	color: #000;
+	transition: 0.3s ease;
+}
+
+.mylabel:hover{
+	background-color: #f3f3f3;
+	color: gold;
+	padding:;
+	text-decoration: none;
+}
+
+#btncontinue{
+	color: gold;
+}
+
+.views{
+	font-size: 15px;
+}
+
+.carousel-img{
+	width: 36%;
+}
+.carousel-inner .item img {
+
+width: 100%; height: auto;
+display: block;
+margin-left: 130%;
+}
+
+
+.carouselcaption{
+font-family: arial;
+color: gold;
+}
+.carouselcaption p{
+font-size: 10px;
+}
+
+
+.carouselcaption:hover{
+font-family: arial;
+color: grey;
+transition: 0.5s ease;
+text-decoration: none;
+}
+
+
+.top-cat,.see-all {
+font-family: "Comic Sans MS", cursive, sans-serif;
+color:purple;
+font-size: 20px;
+
+}
+
+.top-cat:hover{
+color:gold;
+text-decoration: none;
+}
+
+.see-all{
+float: right;
+}
+
+.see-all:hover{
+color:gold;
+text-decoration: none;
+}
+
+
+
+/*profile page*/
+
+.profile-header{
+	background-color: #f3f3f3;
+}
+.btn-edit-profile{
+	float: right;
+}
+.btn-edit-profile:hover{
+	color: green;
+}
+.username{
+	color: purple;
+}
+
+.bio{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+.category{
+	font-family: arial;
+	text-decoration: none;
+	font-size: 20px;
+	color: purple;
+	padding: 10px 20px;
+	transition: 0.6s ease;
+}
+.category:hover{
+	background-color: #f3f3f3;
+	color: gold;
+	text-decoration: none;
+}

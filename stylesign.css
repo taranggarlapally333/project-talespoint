@@ -1,0 +1,29 @@
+.nav
+{
+    align-items: center ;
+}
+
+#tab
+{
+    text-align: center;
+    border-radius: 1px solid rgba(0,0,0, 0.5);
+    width : 250px ;
+    
+
+}
+#signinList
+{
+    align-items: center;
+}
+#signinList li
+{
+   list-style: none ;
+   text-decoration: none ;
+   margin-bottom: 10px ;
+   margin-top: 10px ;
+
+}
+.a
+{
+     text-decoration: none ;
+}
